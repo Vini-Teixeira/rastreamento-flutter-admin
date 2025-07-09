@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129906080391",
+    "project_id": "apprastreamento-99a3f",
+    "storage_bucket": "apprastreamento-99a3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129906080391:android:b611797ac1206d2d3d5622",
+        "android_client_info": {
+          "package_name": "com.example.rastreamento_app_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_YbbVgN2NL6I-4QXmjdkPEWMkbSCa9R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
